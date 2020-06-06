@@ -44,4 +44,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 This is another code block
 ```
 
-[Fonality](Fonality.com)
+[Fonality](https://fonality.com)
